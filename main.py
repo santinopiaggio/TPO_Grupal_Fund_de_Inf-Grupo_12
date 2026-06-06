@@ -4,7 +4,7 @@ def op1(lst_pilotos,lst_numeros,lst_escuderias,lst_puntos,lst_promedios,lst_pres
 #Carga de piloto
     piloto = input("Ingrese el nombre y apellido del piloto: ")
     while piloto == "" or len(piloto.split()) != 2:
-        print ("Error. La variable no puede quedar vacia y debe tener 2 palabras")
+        print ("Error. La variable no puede quedar vacia y debe tener 2 palabras"
         piloto = input("Ingrese el nombre y apellido del piloto: ")
     lst_pilotos.append(piloto)
     
