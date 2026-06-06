@@ -14,7 +14,7 @@ def op1(lst_pilotos,lst_numeros,lst_escuderias,lst_puntos,lst_tiempos,lst_presup
         print ("Error. El numero identificatorio debe ser positivo")
         numero=int(input('ingrese el numero identificatorio del monoplaza'))
     lst_numeros.append(numero)
-        
+    
 #Carga de escuderia
     escuderia = input('Ingrese a que escuderia pertence el pioloto: ')
     while escuderia == "":
