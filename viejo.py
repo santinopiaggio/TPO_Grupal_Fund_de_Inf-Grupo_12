@@ -285,7 +285,7 @@ def op3(lst_pilotos,lst_numeros,lst_puntos,lst_promedios):
         
         
         
-        
+    
         
     
 
