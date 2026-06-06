@@ -4,7 +4,6 @@
 Repositorio correspondiente al Trabajo Práctico Obligatorio de la materia **Fundamentos de Informática**.
 
 **Proyecto:** Velocity Racing Team  
-**Sistema:** Sistema de Gestión Deportiva de Escuderías  
 **Grupo:** 12  
 **Repositorio:** https://github.com/santinopiaggio/TPO_Grupal_Fund_de_Inf-Grupo_12
 
