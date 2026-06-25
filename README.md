@@ -1,4 +1,4 @@
-# TPO - Primer Versión  
+# TPO - Entrega final
 ## Velocity Racing Team - Grupo 12
 
 Repositorio correspondiente al Trabajo Práctico Obligatorio de la materia **Fundamentos de Informática**.
@@ -19,11 +19,11 @@ Repositorio correspondiente al Trabajo Práctico Obligatorio de la materia **Fun
 
 ---
 
-## Alcance funcional - Primera versión
+## Alcance funcional - Entrega final
 
 El sistema desarrollado permite gestionar información deportiva relacionada con pilotos, vehículos y rendimiento dentro de una escudería de competición.
 
-En esta primera versión se implementan las funcionalidades principales solicitadas para el proyecto **Velocity Racing Team**:
+En esta versión se implementan las funcionalidades principales solicitadas para el proyecto **Velocity Racing Team**:
 
 1. Registrar pilotos.
 2. Eliminar pilotos existentes.
@@ -54,4 +54,4 @@ Para cada piloto se registra la siguiente información:
 El proyecto está dividido en archivos Python para mantener una organización modular:
 
 - `main.py`: contiene el programa principal y el menú de interacción con el usuario.
-- `funciones.py`: contiene las funciones utilizadas para validar datos, registrar pilotos, modificar información, eliminar registros y generar reportes.
+- `funciones.py`: contiene las funciones utilizadas para validar datos, registrar pilotos, modificar información, eliminar registros y generar reportes matriciales ordenados.
