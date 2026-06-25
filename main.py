@@ -1,6 +1,8 @@
 # En este archivo se encuentra el programa principal, con el menu y las funciones para cada opcion del menu. 
 # Se importan las funciones del archoivo funciones.pypara ser utilizadas en este programa.
 
+# main() - Dante Prividera, Santino Piaggio y Gonzalo Rodriguez
+
 from funciones import op1, op2, op3, op4
 
 # Programa principal, con el menu y las funciones para cada opcion del menu. 
@@ -34,6 +36,18 @@ def main():
         elif opcion == 3:
             op3(lst_pilotos, lst_numeros, lst_puntos, lst_promedios)
         elif opcion == 4:
-            op4(lst_pilotos, lst_numeros, lst_escuderias, lst_puntos, lst_promedios, lst_presupuestos, lst_abandonos)
+            op4(
+                lst_pilotos,
+                lst_numeros,
+                lst_escuderias,
+                lst_puntos,
+                lst_promedios,
+                lst_presupuestos,
+                lst_abandonos
+            )
+        elif opcion == 5:
+            print("==================================================")
+            print("Muchas Gracias por utilizar el gestor de pilotos de F1")
+            print("==================================================")
 
 main()
